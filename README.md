@@ -5,7 +5,9 @@ cs-edu
 
 # ムービーのテーマリスト
 - VisualC#の起動
+ - Windows7+VisualStudio2012 Express
  - VisualC#の起動
+- プログラムの実行
  - プロジェクトの作成
  - プログラムの実行
  - プロジェクトの保存
