@@ -33,9 +33,10 @@
  - [エラーその２-プログラムを記述する場所-](http://am1tanaka.hatenablog.com/entry/2014/10/12/005237)
 
 
-## C#の基本ルール
+## プログラミングを始める前に知っておきたいこと
 - [プログラムを書く場所](http://am1tanaka.hatenablog.com/entry/2014/10/12/142322)
 - [半角と全角 / コメント / コードとデザイナーの切り替え / 行末はセミコロン(;)](http://am1tanaka.hatenablog.com/entry/2014/10/12/182213)
+- [代表的な5つのエラー](http://am1tanaka.hatenablog.com/entry/2014/10/12/194617)
 
 
 ## 出力ー設計は出力から
