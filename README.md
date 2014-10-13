@@ -40,7 +40,7 @@
 
 
 ## 出力ー設計は出力から
-- Buttonとプロパティ
+- [Buttonとプロパティ](http://am1tanaka.hatenablog.com/entry/2014/10/13/214224)
  - 様々なプロパティ(文字の変更 / 色の変更 / 書体の変更 / 座標の変更 / サイズの変更)
 - MessageBoxの使い方
 - Labelの使い方
