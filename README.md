@@ -52,10 +52,10 @@
 
 ## 処理
 ### 順次処理
-- プログラムを実行する順番
+- [プログラムを実行する順番](http://am1tanaka.hatenablog.com/entry/2014/10/26/212640)
 
 ### 変数
-- 代表的な4種類の変数型(int / string / float / bool)
+- 変数とは - 代表的な4種類の変数型(int / String / float / bool)
 - 変数の使い方(定義 / 代入 / 読み出し)
 
 ### 計算
@@ -102,6 +102,11 @@
 
 
 ## 仕上げ
+
+
+# 参考URL
+- [Microsoft Developer Network - Visual C#](http://msdn.microsoft.com/ja-jp/library/kx37x362.aspx)
+- 
 
 
 
