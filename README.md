@@ -55,7 +55,7 @@
 - [プログラムを実行する順番](http://am1tanaka.hatenablog.com/entry/2014/10/26/212640)
 
 ### 変数
-- 変数とは - 代表的な4種類の変数型(int / String / float / bool)
+- [変数とは - 代表的な4種類の変数型（int / String / float / bool）](http://am1tanaka.hatenablog.com/entry/2014/10/27/001359)
 - 変数の使い方(定義 / 代入 / 読み出し)
 
 ### 計算
