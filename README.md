@@ -56,7 +56,7 @@
 
 ### 変数
 - [変数とは - 代表的な4種類の変数型（int / String / float / bool）](http://am1tanaka.hatenablog.com/entry/2014/10/27/001359)
-- 変数の使い方(定義 / 代入 / 読み出し)
+- [変数の使い方（代入 / 読み出し / 定義）](http://am1tanaka.hatenablog.com/entry/2014/10/29/001419)
 
 ### 計算
 - 文字列の結合
