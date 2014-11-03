@@ -59,7 +59,7 @@
 - [変数の使い方（代入 / 読み出し / 定義）](http://am1tanaka.hatenablog.com/entry/2014/10/29/001419)
 
 ### 計算
-- 文字列の結合
+- [文字列の結合](http://am1tanaka.hatenablog.com/entry/2014/11/03/231553)
 - 四則演算と余り
  - 平成/西暦の変換
  - 時間と秒の変換
