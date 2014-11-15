@@ -95,7 +95,5 @@
 
 # 参考URL
 - [Microsoft Developer Network - Visual C#](http://msdn.microsoft.com/ja-jp/library/kx37x362.aspx)
-- 
-
 
 
