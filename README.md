@@ -79,8 +79,8 @@
 - [ifで2つ以上の条件を判定する（当たり判定）](http://am1tanaka.hatenablog.com/entry/2014/11/27/212716)
 
 ## 配列
+- [配列の使い方（ラベルを３つに増やす）](http://am1tanaka.hatenablog.com/entry/2014/11/30/211002)
 - [プログラムでコントロールを作成する方法](http://am1tanaka.hatenablog.com/entry/2014/11/30/183644)
-- 配列の使い方（ラベルを３つに増やす）
 
 
 ## 繰り返し処理
