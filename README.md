@@ -84,7 +84,7 @@
 
 
 ## 繰り返し処理
-- for文の使い方
+- [for文の使い方](http://am1tanaka.hatenablog.com/entry/2014/12/13/173819)
 - ラベルを好きなだけ表示させる
 
 
